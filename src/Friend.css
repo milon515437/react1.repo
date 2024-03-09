@@ -1,0 +1,14 @@
+.box{
+    border: 5px solid brown;
+    border-radius: 20px;
+    box-shadow:50px;
+    background-color: aqua;
+}
+.box1{
+    border: 5px solid brown;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow:50px;
+    background-color: rgb(211, 109, 206);
+}
